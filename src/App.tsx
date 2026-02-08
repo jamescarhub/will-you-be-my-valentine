@@ -14,19 +14,19 @@ export default function Page() {
     const phrases = [
       "No",
       "Are you sure?",
-      "What if I asked really nicely?",
-      "Pretty please",
-      "With a chocolate rice cake on top",
-      "What about a matcha frostie",
-      "PLEASE POOKIE",
+      "SURE KA NA?",
+      "SURE NA SURE?",
+      "SURE NA SURE NA SURE?",
+      "SURE NA SURE NA SURE NA SURE?",
+      "PLEASE BEBE",
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
-      "please babe",
+      "RAWRRRRRRRRR",
+      "please MY MARIELLE HEART",
       ":((((",
       "PRETTY PLEASE",
-      "Estoy muerto",
+      "WAG KANG MATAKOT",
       "No :(",
     ];
 
@@ -38,7 +38,7 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you pookie!! ;))</div>
+          <div className="my-4 text-4xl font-bold">YEHEYYYYYYYYY!!! I LOVE YOU MY HONEYBUNCHSUGARPLUMCUPCAKEEE!! ;))</div>
         </>
       ) : (
         <>
